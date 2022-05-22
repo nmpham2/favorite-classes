@@ -1,0 +1,13 @@
+
+.class {
+    display: flex;
+    flex-direction: column;
+
+    width: 200px;
+    height: 50px;
+    background-color: #4D4847;
+    border-radius: 10px;
+
+    color: #F4FFF8;
+    margin-bottom: 10px;
+}
